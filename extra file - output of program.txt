@@ -1,0 +1,10 @@
+
+	 *** Your Purchases ***
+-----------------------------------
+WASHING MACHINE . . . $279.99
+AIR FRYER . . . $70.99
+SMART TV . . . $199.99
+KITCHENWARE SET . . . $80.49
+-----------------------------------
+TOTAL: 			 $631.46
+EXPECTED: 		February 10th at 2:00 PM
