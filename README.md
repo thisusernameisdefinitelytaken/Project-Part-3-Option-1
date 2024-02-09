@@ -1,7 +1,7 @@
 # Project-Part-3-Option-1
-Program is for Option 1: Business Python Program. 
-CIS-30A-21273
-PURPOSE AND FUNCTION:
+Program is for Option 1: Business Python Program. \
+CIS-30A-21273\
+PURPOSE AND FUNCTION:\
 The purpose of this program is to imagine a business transaction in which the user selects items from the menu to purchase, as many as they wish until they choose to stop or until the error is activated through invalid input. The user may then choose an appointed time and day in which their goods can be delivered, with the dates being given through another menu. 
 Once the user's selections are in, the program will create a text file in which the selections are recorded in. Items purchased, their total, and appointed date are all written into a new text file called "purchase.txt". Once the information is recorded in, the information will then be drawn out of purchase.txt and read to the user via output.
 STRUCTURE:
